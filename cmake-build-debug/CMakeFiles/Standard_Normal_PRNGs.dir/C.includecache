@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/Box_Muller_generator.c
+math.h
+-
+SN_PRNG.h
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+stdlib.h
+-
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/Marsaglia_polar_generator.c
+math.h
+-
+SN_PRNG.h
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+stdlib.h
+-
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/PRNG_uniform.c
+stdlib.h
+-
+stdio.h
+-
+SN_PRNG.h
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/histogram_generator.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+SN_PRNG.h
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+SN_PRNG.h
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+time.h
+-
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sample_mean_calc.c
+SN_PRNG.h
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sample_variance_calc.c
+SN_PRNG.h
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sort_compare.c
+SN_PRNG.h
+/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/SN_PRNG.h
+

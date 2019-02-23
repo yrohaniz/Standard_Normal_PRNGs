@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/cmake-build-debug",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG   -std=gnu99 -o CMakeFiles/Standard_Normal_PRNGs.dir/main.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/main.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/main.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/cmake-build-debug",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG   -std=gnu99 -o CMakeFiles/Standard_Normal_PRNGs.dir/PRNG_uniform.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/PRNG_uniform.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/PRNG_uniform.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/cmake-build-debug",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG   -std=gnu99 -o CMakeFiles/Standard_Normal_PRNGs.dir/Box_Muller_generator.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/Box_Muller_generator.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/Box_Muller_generator.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/cmake-build-debug",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG   -std=gnu99 -o CMakeFiles/Standard_Normal_PRNGs.dir/Marsaglia_polar_generator.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/Marsaglia_polar_generator.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/Marsaglia_polar_generator.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/cmake-build-debug",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG   -std=gnu99 -o CMakeFiles/Standard_Normal_PRNGs.dir/sample_mean_calc.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sample_mean_calc.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sample_mean_calc.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/cmake-build-debug",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG   -std=gnu99 -o CMakeFiles/Standard_Normal_PRNGs.dir/sample_variance_calc.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sample_variance_calc.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sample_variance_calc.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/cmake-build-debug",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG   -std=gnu99 -o CMakeFiles/Standard_Normal_PRNGs.dir/histogram_generator.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/histogram_generator.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/histogram_generator.c"
+},
+{
+  "directory": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/cmake-build-debug",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG   -std=gnu99 -o CMakeFiles/Standard_Normal_PRNGs.dir/sort_compare.c.o   -c \"/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sort_compare.c\"",
+  "file": "/home/yrohanizadegan/Desktop/SDE project/Standard_Normal_PRNGs/sort_compare.c"
+}
+]
